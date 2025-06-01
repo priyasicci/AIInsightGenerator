@@ -1,0 +1,2 @@
+# AIInsightGenerator
+Automated Insight Generator

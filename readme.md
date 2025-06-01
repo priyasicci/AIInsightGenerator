@@ -73,7 +73,6 @@ source myenv/bin/activate          # For Mac/Linux
 .\myenv\Scripts\activate           # For Windows
 
 streamlit run src/app.py
-Let me know if you'd like to generate a PDF or Markdown version of this document.
 
 
 
